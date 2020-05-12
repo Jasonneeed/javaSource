@@ -834,7 +834,7 @@ public final class Integer extends Number implements Comparable<Integer> {
 
     /**
      * The value of the {@code Integer}.
-     * 可以自己写注释了
+     *
      * @serial
      */
     private final int value;
